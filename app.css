@@ -1,0 +1,48 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+  body {
+    font-family: sans-serif;
+    text-align: center;
+    margin-top: 30px;
+    background-color: black;
+    font-family: Georgia, 'serif';
+  }
+  #times p {
+    font-size: 1.2rem;
+    margin: 5px 0;
+    padding-top: 2rem;
+    text-align: center;
+    background-color: rgb(30, 30, 30);
+    color:  rgb(166, 255, 2);
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+
+  }
+  .img{
+    float: left;
+    width:49px;
+    padding-left: 35px;
+  }
+  #times{
+    background-color: rgb(102, 158, 160) ;
+    height:30rem;
+    padding-top:1rem;
+   
+  }
+.heading{
+    padding-bottom: 2rem;
+    color: cyan;  
+    font-size: 1.9rem;
+}
+.footer{
+    padding: 0.5em;
+    color: cyan;
+    background-color: black;
+    position: fixed;
+    bottom: 0;
+     width: 100%;
+    text-align: center;
+    font-size: 16px;
+}
